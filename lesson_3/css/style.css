@@ -1,0 +1,41 @@
+@import url("reset.css");
+
+body {
+   background-color: aqua;
+}
+
+header {
+   color: bisque;
+}
+
+.navigation {
+   color: brown;
+}
+
+p {
+   color: pink;
+}
+
+.menu {
+   color: aliceblue;
+}
+
+.chapt-1 {
+   color: chartreuse;
+}
+
+.chapt-2 {
+   color: crimson;
+}
+
+.chapt-3 {
+   color: cadetblue;
+}
+
+.blue {
+   color: blue;
+}
+
+.up {
+   color: deeppink;
+}
